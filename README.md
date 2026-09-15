@@ -1,4 +1,4 @@
-## Official Repo for **Introduction to Optimization Z2007**
+## Official Github Repository: **Introduction to Optimization Z2007**
 
 Contains relevant notebooks (and slides if applicable).
 
@@ -11,3 +11,5 @@ Under the **notebooks** tab, you will find the relevant programming implementati
 
 
 **BONUS:** It is highly encouraged to go through relevant mathematical modules/libraries and try and contribute a solver for them. This is a good indicator of programming knowledge + mathematical understanding, and could count as an open source contribution, that we know is pretty useful :) 
+
+Please email Prof. Manoj Kumar for any course related information. 
