@@ -1,4 +1,4 @@
-## Official Github Repository: **Introduction to Optimization Z2007**
+## Official GitHub Repository: **Introduction to Optimization Z2007**
 
 Contains relevant notebooks (and slides if applicable).
 
